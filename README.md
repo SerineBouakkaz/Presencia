@@ -129,14 +129,19 @@ src/main/java/com/presencia/
 ├── interceptor/
 └── config/
 ```
+## 🌍 Live Demo
 
+You can access the running application here:
+
+👉 [https://abc123.ngrok-free.app](https://woaded-unrevokable-evita.ngrok-free.dev)
 ---
 
 ## Developed by:
 
-Maria Serinne Bouakkaz
-Amra Leila Gasselaoud
-Aboubacar Rabo Ammar
-Youcef Benhorma
-Rafik Nadjame
-Computer Science Student
+- Maria Serinne Bouakkaz  
+- Amra Leila Gasselaoud  
+- Aboubacar Rabo Ammar  
+- Youcef Benhorma  
+- Rafik Nadjame  
+
+Computer Science Students
