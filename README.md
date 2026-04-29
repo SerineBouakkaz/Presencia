@@ -139,9 +139,10 @@ You can access the running application here:
 ## Developed by:
 
 - Maria Serinne Bouakkaz  
-- Amra Leila Gasselaoud  
+- Amra Leila Gasselaoud
+- Rafik Nadjame  
 - Aboubacar Rabo Ammar  
 - Youcef Benhorma  
-- Rafik Nadjame  
+   
 
 Computer Science Students
